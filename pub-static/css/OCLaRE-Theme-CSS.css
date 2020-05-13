@@ -1457,6 +1457,15 @@ li::marker {
     padding: 0 1em;
 }
 
+.nav-login {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-login a {
+    white-space: nowrap;
+}
+
 @media screen and (max-width: 767px) {
     #nav-bar {
         flex-wrap: wrap;
