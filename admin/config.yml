@@ -6,7 +6,7 @@ backend:
 local_backend: true
 
 # Folder for storing media content
-media_folder: "/Images/cms"
+media_folder: "/pub-static/cms"
 
 
 editor:
@@ -40,8 +40,8 @@ collections:
         - {label: "Title Image", name: "image", widget: "image"}        
         - {label: "Body", name: "body", widget: "markdown"}
     - label: "Contact Us"
-      name: "contactus"
-      file: "/contactUs.md"
+      name: "contact-us"
+      file: "/contact-us.md"
       create: false
       delete: false
       fields:
@@ -49,8 +49,8 @@ collections:
         - {label: "Title", name: "title", widget: "string", default: "Contact Us"}      
         - {label: "Body", name: "body", widget: "markdown"}
     - label: "Bug Report"
-      name: "bugreport"
-      file: "/bugReport.md"
+      name: "bug-report"
+      file: "/bug-report.md"
       create: false
       delete: false
       fields:
