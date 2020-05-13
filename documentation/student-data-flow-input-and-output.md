@@ -19,7 +19,7 @@ Field type determines how a student can input, as well as what is valid input.
 * Number: Can be a number, including scientific notation. Validation allows you to define a range the number can be within.
 * Text: Can be up top an allotted number of characters, as well as images, with student's choice of formatting.
 
-![Student Input Dialog](/Images/cms/annotation-2020-05-04-125927.png "Student Input Dialog")
+![Student Input Dialog](/pub-static/cms/annotation-2020-05-04-125927.png "Student Input Dialog")
 
 # Student Output
 

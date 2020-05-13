@@ -17,13 +17,13 @@ Look up and find the article you wish to cite, and click on the quotations icon
 
 #### Google Scholar Search Results
 
-![Cite Icon](/Images/cms/annotation-2020-05-05-133228.png "Google Scholar Search Results")
+![Cite Icon](/pub-static/cms/annotation-2020-05-05-133228.png "Google Scholar Search Results")
 
 Which will open a window similar to the following:
 
 #### Google Scholar Cite Window
 
-![Cite Window](/Images/cms/annotation-2020-05-05-13322.png "Google Scholar Cite Window")
+![Cite Window](/pub-static/cms/annotation-2020-05-05-13322.png "Google Scholar Cite Window")
 
 In the bottom left, click BibTex to generate the BibTex code. It will look something along the lines of this:
 
