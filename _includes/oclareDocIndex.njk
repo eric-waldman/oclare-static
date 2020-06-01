@@ -3,7 +3,8 @@ layout: oclareBase.njk
 ---
 {% include "partials/header.njk" %}
 <div class="padding-md form-backing">
-    <div class="col-md-3 col-sm-3 hidden-xs oclare-background-color-5 panel panel-default margin-top-doc padding-y-md">
+    <div class="col-md-3 col-sm-3 hidden-xs oclare-background-color-5 margin-top-doc padding-y-md" id="document-pages-box">
+        <h2 id="document-pages">Pages</h2>
         <ul>
         {%- for doc in collections.doc -%}
                 <li>
@@ -32,11 +33,13 @@ layout: oclareBase.njk
         </div>
     </nav>
     <div class="col-md-9 col-sm-9 col-xs-12">
-        <div class="padding-sm oclare-background-color-5" id="article-body">
-            <div class="oclare-background-color-4 padding-x-sm margin-bottom-md" id="article-title">
+        <div class="padding-sm" id="document-body">
+            <div class="oclare-background-color-2 padding-x-sm" id="document-title">
                 <h1 class="margin-0 padding-sm">{{ title }}</h1>
             </div>
-            {{content | safe}}
+            <div class="documentation-content">
+                {{content | safe}}
+            </div>
         </div>
     </div>
 </div>
