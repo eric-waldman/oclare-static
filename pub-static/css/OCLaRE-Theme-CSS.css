@@ -1683,10 +1683,6 @@ li::marker {
 
 
 /* #region Navbar */
-#nav-bar {
-    height: 63px;
-}
-
 #nav-login {
     display: flex;
     flex-wrap: nowrap;
@@ -1720,6 +1716,7 @@ li::marker {
     border-bottom: 3px solid var(--color2);
     width: 100%;
     margin-bottom: 1.5em;
+    height: 63px;
 }
 
 #nav-item-collection {
