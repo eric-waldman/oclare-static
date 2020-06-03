@@ -495,7 +495,6 @@ img {
 #main-content {
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
 }
 
 .footer-logo {
@@ -1533,6 +1532,7 @@ li::marker {
 
 #home-body {
     padding: 0 20px;
+    flex-grow: 1;
 }
 
 #top-row {
