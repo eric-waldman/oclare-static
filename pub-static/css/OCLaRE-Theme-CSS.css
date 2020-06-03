@@ -1439,6 +1439,9 @@ li::marker {
 
 
 /* #region Navbar */
+#nav-bar {
+    height: 63px;
+}
 
 #nav-bar,
 #nav-item-collection {
@@ -1469,6 +1472,7 @@ li::marker {
 @media screen and (max-width: 767px) {
     #nav-bar {
         flex-wrap: wrap;
+        height: auto;
     }
     #header-logo {
         margin: auto;
