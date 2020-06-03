@@ -6,11 +6,9 @@ title: Home
 {% include "partials/header.njk" %}
 <div id="top-row">    
     <!-- Placeholder image -->
-    <div class="col-md-3 hidden-sm hidden-xs">
-        <!-- TODO: Fix image layout -->
-        <div class="media"  id="header-image">
-            <img src="{{ image }}" class="img-fluid" alt="Student Chemist">
-        </div>
+    <div class="col-md-3 hidden-sm hidden-xs media" id="header-image">
+            <img src="{{ image }}" class="img-fluid" alt="Frontpage Image">
+            <figcaption><b>O</b>nline <b>C</b>ollaborative <b>La</b>b <b>R</b>eporting <b>E</b>nvironment</figcaption>
     </div>
 </div>
 <!--About\News-->
@@ -21,13 +19,9 @@ title: Home
             <p class="text-justify">
                 {{ content | safe }}
             </p>
-            <div class="read-more">
-                {# <a href="#">read more...</a> #}
-            </div>
         </div>
     </div>
-    <div class="col-md-5 col-sm-12">
-        <!--News/Articles-->
+    <div class="col-md-5 col-sm-12" id="articles-list">
         {% include "partials/recentArticles.njk" %}
     </div>
 </div>

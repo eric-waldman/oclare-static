@@ -1,5 +1,5 @@
 ---
-title: Student Data Flow (Input and Output)
+title: Student Data Input and Student Data Output
 position: 5
 layout: oclareDocIndex.njk
 tags:

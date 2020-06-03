@@ -3,20 +3,20 @@ layout: oclareBase.njk
 ---
 <!-- Top Row -->
 {% include "partials/header.njk" %}
-<div class="container-fluid padding-md oclare-background-color-5 panel panel-default oclare-form">
+<div class="container-fluid padding-md oclare-form">
     <h1>{{ title }}</h1>
     <div class="content">
         {{content | safe}}
     </div>
     <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
         <p>
-            <label>Your Name:</br> <input type="text" name="name" /></label>   
+            <label>Your Name:</br> <input type="text" name="name" class="form-control"/></label>   
         </p>
         <p>
-            <label>Your Email:</br> <input type="email" name="email" /></label>
+            <label>Your Email:</br> <input type="email" name="email" class="form-control"/></label>
         </p>
         <p>
-            <label>Message:</br> <textarea name="message"></textarea></label>
+            <label>Message:</br> <textarea name="message"class="form-control"></textarea></label>
         </p>
         <p>
             <button type="submit">Send</button>

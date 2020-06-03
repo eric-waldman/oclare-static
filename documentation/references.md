@@ -1,5 +1,5 @@
 ---
-title: References
+title: Bibliography
 position: 7
 layout: oclareDocIndex.njk
 tags:
@@ -37,3 +37,7 @@ In the bottom left, click BibTex to generate the BibTex code. It will look somet
 ```
 
 Copy it, then back on OCLaRE, in the lab you wish to insert the citation, navigate to the bibliography tab, and click Add Record. Paste the code acquired from Google Scholar in the text box and submit. you should then be able to return to whichever tab your wanted to add the citation to, click the citation icon, and select the reference you wish to cite and press ok.
+
+### Adding a Reference from the Library
+
+When adding references to the bibliography section you will have the option to “Import form Library”. Clicking the “Import form Library” button will display all of the previous references that have been entered on this account, these references can be accessed all labs. Once in the reference library simply click the check box next to each the references you would like to add to the report and click the “Import Selected”. The selected references should appear in the bibliography of the current working lab.
