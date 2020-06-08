@@ -448,14 +448,14 @@ img {
 }
 
 #right-background {
-    background-image: url('/pub-static/Images/extra.jpg');
+    background-image: url('/pub-static/images/extra.jpg');
     background-position-x: left;
     right: 0;
     opacity: 0.6;
 }
 
 #left-background {
-    background-image: url('/pub-static/Images/Campus_summer.jpg');
+    background-image: url('/pub-static/images/Campus_summer.jpg');
     background-position-x: center;
     left: 0;
     opacity: 0.7;
