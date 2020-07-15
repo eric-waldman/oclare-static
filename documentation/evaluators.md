@@ -1,6 +1,6 @@
 ---
 title: Evaluators
-position: 10
+position: 8
 layout: oclareDocIndex.njk
 tags:
   - documentation
