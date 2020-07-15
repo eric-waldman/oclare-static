@@ -13,6 +13,6 @@ From this page, you can change your name or Financial Institution
 
 ![](https://lh5.googleusercontent.com/LstsAy1Gzvy07lna9xlvvYg2kao1SmO8QMrs2jxYyCEVLr2MLGiKxrgZ6ebp-a0wPfaLAVtD_qrTWhmDGshHS-YyIQNiiiSxeaQykoK-zjgzl7jR1wACHPlbBhr9doYdG1D6JhN8)
 
-When you’re satisfied with the current values, click apply changes and he changed will be applied to your account.
+When you’re satisfied with the current values, click apply changes and the changes will be applied to your account.
 
 <!--EndFragment-->
