@@ -36,7 +36,7 @@ In the bottom left, click BibTex to generate the BibTex code. It will look somet
 }
 ```
 
-Copy it, then back on OCLaRE, in the lab you wish to insert the citation, navigate to the bibliography tab, and click Add Record. Paste the code acquired from Google Scholar in the text box and submit. you should then be able to return to whichever tab your wanted to add the citation to, click the citation icon, and select the reference you wish to cite and press ok.
+Copy it, then back on OCLaRE, in the lab you wish to insert the citation, navigate to the bibliography tab, and click Add Record. Paste the code acquired from Google Scholar in the text box and submit. You should then be able to return to whichever tab you wanted to add the citation to, click the citation icon, select the reference you wish to cite and press ok.
 
 ### Adding a Reference from the Library
 
