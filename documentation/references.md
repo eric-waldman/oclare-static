@@ -7,7 +7,13 @@ tags:
 ---
 ### Adding a Bibliography Citation
 
-If you want to add a reference either when creating a lab, or in a large text input as a student, you must first find its BibTex notation on either [Google Scholar](https://scholar.google.ca/), [Zbib](https://zbib.org/), or any online library that offers such a service.
+If you want to add a reference either when creating a lab, or in a large text input as a student, you must first find its BibTex notation on either [Google Scholar](https://scholar.google.ca/), [Zoterobib](https://zbib.org/), or any online library that offers such a service.
+
+To use Zoterobib, the following video may be useful : 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4L7zTAKmVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 #### Acquiring BibTex Notation
 
