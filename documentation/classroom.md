@@ -5,11 +5,11 @@ layout: oclareDocIndex.njk
 tags:
   - documentation
 ---
-The Classroom subtab offers the ability to view all the data that students have entered in a specific lab, and is only accessible to teachers.
+The Classroom subtab is only accessible to teachers and offers the ability to view all the data that students have entered in a specific lab.
 
 ## The Landing Page
 
-Upon clicking the subtab, you’ll be navigated to a classlist, containing the names and emails of each student. Clicking on either will direct you to the student’s lab report, starting from the first subtab.
+Upon clicking the subtab, you will be navigated to a classlist, containing the names and emails of each student. Clicking on either will direct you to the student’s lab report, starting from the first subtab.
 
 The top three buttons display the class data in three different ways.
 
@@ -17,7 +17,7 @@ The top three buttons display the class data in three different ways.
 
 ## View Class Data
 
-View Class Data displays all the data in a table, sorting numeric answers in the top most rows, short text answers below that, followed by long text answers. The columns are named by the names you’ve given the input fields in the lab, and are sorted alphabetically.
+View Class Data displays all the data in a table, sorting numeric answers in the top most rows, short text answers below that, followed by long text answers. The columns are named by the names you have given the input fields in the lab, and are sorted alphabetically.
 
 ![](https://lh3.googleusercontent.com/WYo8OxKiyFcKKf6zGH_AqW-QafJd6tGRRlfPXrne1HfIIm-PW3pvaE1t5zWVOMJIZ2-J2HmwbBi2j4VTtKQ0Wk5fb4p3R3f3ehEssaxCmboaOp5u3sdlowHS0fEDzzaXL8JkyHmY)
 
@@ -25,7 +25,7 @@ Clicking on a student’s name will display all of the answers that student has 
 
 ![](https://lh4.googleusercontent.com/jXHUJ3QO6H5H98qI9iYR94cVaEMclVUaHZM4nGsViDB81xO6dV3CM2EynkUS_B8EPfxODhyIQzkyGxFWbkCF2UgSpo6LXwadbefrNoHATFgNpoF31v0-HYOZikbtJJSdhXZsveYV)
 
-Clicking a column head will display each student’s answer for that particular field.
+Clicking a column heading will display each student’s answer for that particular field.
 
 ![](https://lh3.googleusercontent.com/y2OJrESn2RPz-yLsdWnbclvgXX0y_l_SyFLq8f9cQr2qB4ewk3G1Twgf6sfX-UlS46QSq9tWrGOOjObVX8tgHABUwyzhuSl02MggGsjlUdqgOTq3dkNHrjVfFy_0YNt4LBPurJIN)
 
