@@ -39,13 +39,13 @@ The Pre-Lab section contains any exercises or questions which must be completed 
 
 This Data section is the place to enter data recorded during the experiment. Use the Student Input icon to create fields where students can enter values and observations. Computed Fields can be used to calculate values based on data entered in student inputs. Input and computed fields should have unique, meaningful variable names in order to distinguish them. These can then be used in other areas, such as in plots, in other sections, and in the final report. It is recommended to use tables to help organize this section. Use these icons to insert student input and computed fields:![](https://lh4.googleusercontent.com/8sIKDGKXvH1ISyukK5mXN8-jtroNdMRPSu6M3kgWcJzTaf40hX2167aG678iLw3T_nijq5akGj2xVd-kue3vkgItbDtOxQ9vqkbdnaNzqfiFfxtqZGHkUzdtN_V-qoz8xIzRpu3t). 
 
-For student inputs, you may also use the **Notebook feature** to include a pop-up window with pertinent information (e.g. instructions on how to do a calculation or the elements to include when writing an Abstract) when a student clicks inside the field.  
+For student inputs, you may also use the **Notebook feature** to include a pop-up window with pertinent information (e.g., instructions on how to do a calculation or the elements to include when writing an Abstract) when a student clicks inside the field.  
 
 ![](https://lh3.googleusercontent.com/kXquAmnMHi9nUGoOlMD7wkN6DN5LqcDEEnN9u4XGfcYPgA8QxSk96ozwR4cyi9reVEIEZ02rBvamwQ3XqFB2GIvel1umVxtlRcofA9cGL7allMIaYbq1MGJHdxPgnfs6F6IinGXZ)
 
 ![](https://lh5.googleusercontent.com/NtfKH6aCX8XY7iGGMOHXzg4kaPdLe1VX8k5GgBBG1nlTTMpWciELBVdaKs9iZf4l9SET_eaaeOX2qt4BXC7L2pKTdmaRxlkXyUSkJjIuRc_TNrdbNOlabn8xfyjg4gk7joQwT-Yr)
 
-The **Validation feature** allows the teacher to enter minimum and maximum allowed values for the input field.  If the student enters a value below the minimum allowed value or above the maximun allow value, a red message will appear to alert the student.  This, therefore, is a means of providing real-time feedback to the student during data collection, as well as during writing. 
+The **Validation feature** allows the teacher to enter minimum and maximum allowed values for the input field.  If the student enters a value below the minimum allowed value or above the maximum allow value, a red message will appear to alert the student.  This, therefore, is a means of providing real-time feedback to the student during data collection, as well as during writing. 
 
 ### Analysis
 
