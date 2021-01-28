@@ -9,7 +9,7 @@ tags:
 
 If you want to add a reference either when creating a lab, or in a large text input as a student, you must first find its BibTex notation on either [Google Scholar](https://scholar.google.ca/), [Zoterobib](https://zbib.org/), or any online library that offers such a service.
 
-To use Zoterobib, the following video may be useful : 
+To use Zoterobib, the following video may be useful: 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/H4L7zTAKmVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -17,7 +17,7 @@ To use Zoterobib, the following video may be useful :
 
 First, lookup the name of the reference on your scholar search engine of choice. The following examples will use Google Scholar.
 
-Look up and find the article you wish to cite, and click on the quotations icon
+Look up and find the article you wish to cite, and click on the quotation's icon
 
 #### Google Scholar Search Results
 
@@ -44,4 +44,4 @@ Copy it, then back on OCLaRE, in the lab you wish to insert the citation, naviga
 
 ### Adding a Reference from the Library
 
-When adding references to the bibliography section you will have the option to “Import form Library”. Clicking the “Import form Library” button will display all of the previous references that have been entered on this account, these references can be accessed all labs. Once in the reference library simply click the check box next to each the references you would like to add to the report and click the “Import Selected”. The selected references should appear in the bibliography of the current working lab.
+When adding references to the bibliography section you will have the option to "Import form Library”. Clicking the “Import form Library” button will display all of the previous references that have been entered on this account, these references can be accessed all labs. Once in the reference library simply click the check box next to each the references you would like to add to the report and click Import Selected. The selected references should appear in the bibliography of the current working lab.
