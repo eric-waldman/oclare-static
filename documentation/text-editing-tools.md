@@ -69,11 +69,11 @@ Right click a cell, hover over “Cell”, and choose “Cell Properties”. Thi
 
 #### Modifying the Caption:
 
-Once the table is created, you can edit the caption as if it were text. Other than the table number, you can remove the caption, and even replace it with another component like an info box or student input if the assigment requires them labelling their own table.
+Once the table is created, you can edit the caption as if it were text. Other than the table number, you can remove the caption, and even replace it with another component like an info box or student input if the assignment requires them labelling their own table.
 
 ### Equation:
 
-This function is used to insert an equation. The equation editor uses LaTeX formatting, and features various tools to present text. Equations can also be edited by manually writing in the text box. LaTeX uses a type of markup language to construct formatted text. Most markup tags start with a backslash character () and are followed immediately with an identifier to specify the formatting type. Some tags will start with other characters, such as the caret (^) or the underscore (_). Special characters such as ∑, ∆, ∩, e.t.c. are written by adding their identifier after the backslash (\sum, \Delta, \bigcap). Custom text is written by starting with a formatting tag and writing text between the curly braces - {}. Example: “\mathbf{exampleText}” will produce “exampleText”. Spaces in the equation editor do not show up in the text. To force a space, type a backslash () followed by a space. Example: “\ “ will produce a space in the LaTeX output.
+This function is used to insert an equation. The equation editor uses LaTeX formatting and features various tools to present text. Equations can also be edited by manually writing in the text box. LaTeX uses a type of markup language to construct formatted text. Most markup tags start with a backslash character () and are followed immediately with an identifier to specify the formatting type. Some tags will start with other characters, such as the caret (^) or the underscore (_). Special characters such as ∑, ∆, ∩, e.t.c. are written by adding their identifier after the backslash (\sum, \Delta, \bigcap). Custom text is written by starting with a formatting tag and writing text between the curly braces - {}. Example: “\mathbf{exampleText}” will produce “exampleText”. Spaces in the equation editor do not show up in the text. To force a space, type a backslash (\) followed by a space. Example: "\ " will produce a space in the LaTeX output.
 
 ### Link:
 
